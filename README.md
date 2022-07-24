@@ -10,5 +10,7 @@
 
 
 [![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamesh-mali&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![APrathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamesh-mali&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - ⚡ Fun fact: ... -->
 
