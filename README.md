@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Prathamesh,
+  I am a Student currently pursuing my Master's Degree in Computer Science
 
 
 <!-- - 🔭 I’m currently working on ... -->
