@@ -7,5 +7,8 @@
 - 💬 Ask me about ... Django, Js, Dart, Python and Flutter
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: ... He/Him
+
+
+[![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamesh-mali)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - ⚡ Fun fact: ... -->
--->
+
