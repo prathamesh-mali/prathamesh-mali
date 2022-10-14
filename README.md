@@ -7,7 +7,7 @@ I am a Student currently pursuing my Master's Degree in Computer Science
 
 -   🌱 I’m currently learning ... Flutter
 -   👯 I’m looking to collaborate on Django, Js and Flutter
--   💬 Ask me about ... Django, Js, Dart, Python and Flutter
+-   💬 Ask me about ... Django, Js, Dart, Java, Python and Flutter
 -   😄 Pronouns: ... He/Him
 <p align="left">
 </p>
