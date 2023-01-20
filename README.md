@@ -21,20 +21,15 @@
     <thead>
         <tr>
             <th style="padding-left: 1px; padding-right: 1px;">
-                <img align="left"
-                    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathamesh-mali&show_icons=true&locale=en&layout=compact"
-                    alt="prathamesh-mali" />
-            </th>
-            <th style="padding-left: 1px; padding-right: 1px;">
                 <img align="center"
                     src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathamesh-mali&show_icons=true&locale=en&layout=compact&hide=prs"
                     alt="prathamesh-mali" />
             </th>
+            <th style="padding-left: 1px; padding-right: 1px;">
+                <img align="left"
+                    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathamesh-mali&show_icons=true&locale=en&layout=compact"
+                    alt="prathamesh-mali" />
+            </th>  
         </tr>
     </thead>
 </table>
-<h2>Github Streaks</h2>
-<div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&"
-        alt="prathamesh-mali" />
-</div>
