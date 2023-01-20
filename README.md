@@ -34,7 +34,7 @@
     </thead>
 </table>
 <h2>Githhub streaks</h2>
-<div style="align:center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&layout=compact"
+<div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&"
         alt="prathamesh-mali" />
 </div>
