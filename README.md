@@ -17,17 +17,17 @@
 
 
 <h2>Repo Stats </h2>
-<table style="border: 0px ;">
+<table>
     <thead>
-        <tr style="border-top: 0px ;">
+        <tr>
             <th style="padding-left: 1px; padding-right: 1px; border:0px;">
                     <img align="center"
-                    src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathamesh-mali&show_icons=true&locale=en&layout=compact&hide=prs&theme=transparent&bg_color=00000000"
+                    src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathamesh-mali&show_icons=true&locale=en&layout=compact&hide=prs&theme=transparent"
                     alt="prathamesh-mali" />
             </th>
             <th style="padding-left: 1px; padding-right: 1px; border:0px;">
                 <img align="left"
-                    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathamesh-mali&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=00000000"
+                    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathamesh-mali&show_icons=true&locale=en&layout=compact&theme=transparent"
                     alt="prathamesh-mali" />
             </th>
         </tr>
