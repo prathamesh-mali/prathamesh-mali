@@ -33,7 +33,7 @@
         </tr>
     </thead>
 </table>
-<h2>Githhub streaks</h2>
+<h2>Github Streaks</h2>
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&"
         alt="prathamesh-mali" />
