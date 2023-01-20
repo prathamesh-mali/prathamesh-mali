@@ -17,6 +17,6 @@
 
 <div style="display: flex; flex-direction: row;">
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathamesh-mali&show_icons=true&locale=en&layout=compact" alt="prathamesh-mali" />
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathamesh-mali&show_icons=true&locale=en" alt="prathamesh-mali" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&" alt="prathamesh-mali" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathamesh-mali&show_icons=true&locale=en&layout=compact" alt="prathamesh-mali" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&layout=compact" alt="prathamesh-mali" />
  </div>
