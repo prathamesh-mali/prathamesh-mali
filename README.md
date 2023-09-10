@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Django, Flutter, MERN**
 
-- 💬 Ask me about **MERN,Django, Flutter, JS**
+- 💬 Ask me about **MERN, Django, Flutter**
 
 <p align="left">
 </p>
