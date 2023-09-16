@@ -86,4 +86,4 @@
     </thead>
 </table>
 
-![<Badge Name>]([https://img.shields.io/badge/](https://hackerrank-badge.herokuapp.com/prathamesh-mali)<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
