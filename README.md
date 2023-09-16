@@ -67,8 +67,6 @@
             alt="redis" width="40" height="40" /> </a>
 </p>
 
-<iframe src="https://hackerrank-badge.herokuapp.com/prathamesh-mali" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
 
 <h2>Repo Stats </h2>
 <table>
