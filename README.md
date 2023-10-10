@@ -2,9 +2,13 @@
 <h3 align="center">Flutter developer </h3>
 
  • I’m currently learning **Flutter**
+
  • I’m looking to collaborate on **Django, Flutter, MERN**
+
  • Ask me about **MERN, Django, Flutter**
+
  • I sometimes work on Web Development also.
+ 
 
 
 <p align="left">
