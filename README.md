@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>🌱 I’m currently
-learning<br>
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>
 
 
 # 💻 Tech Stack:
