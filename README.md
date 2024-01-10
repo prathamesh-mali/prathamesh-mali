@@ -1,5 +1,7 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>🤝  I'm open to collaborating on Interesting projects<br>
 
 
 # 💻 Tech Stack:
