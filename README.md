@@ -5,15 +5,18 @@
 
 
 # 💻 Tech Stack:
-<img src="https: //github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48"> <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48">
+<a href="https://dart.dev"><img src="https: //github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"
+        width="48"></a> <a href="https://flutter.dev"><img
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48"></a>
+<a href="https://java.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
+        width="48"></a> <a href="https://python.com"><img
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"></a> 
+<a href="https://djangoproject.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"
+        width="48"></a> <a href="https://nodejs.org"><img
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48"></a> 
+<a href="https://MongoDB.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
+        width="48"></a> <a href="https://postgresql.org"><img
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"></a>
 
 
 
