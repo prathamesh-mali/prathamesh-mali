@@ -5,14 +5,14 @@
 
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg)
+![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+![Django](https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg)
+![Flutter](https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg)
+![NodeJS](https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg)
+![MongoDB](https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg)
+![Postgres](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prathamesh-mali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&theme=dark&hide_border=false)<br>
