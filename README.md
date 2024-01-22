@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 ![](https://komarev.com/ghpvc/?username=prathamesh-mali)
 # 💫 About Me:
 🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>
