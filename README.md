@@ -27,7 +27,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=prathamesh-mali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-mali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&theme=dark&hide_border=false)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-mali&theme=dark&hide_border=false)-->
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- ### ✍️ Random Dev Quote -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
