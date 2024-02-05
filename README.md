@@ -16,7 +16,6 @@
 <a href="https://MongoDB.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
         width="48"></a> <a href="https://postgresql.org"><img
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"></a>
-
 <a href="https://firebase.google.com"><img     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"></a>
 
 
