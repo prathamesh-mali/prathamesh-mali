@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter, Django and Mern<br>
+🔭 I am currently learning Flutter </br> 👯 I’m looking to collaborate on Flutter, Django and Mern<br>
 
 
 # 💻 Tech Stack:
@@ -16,12 +16,7 @@
 <a href="https://MongoDB.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
         width="48"></a> <a href="https://postgresql.org"><img
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"></a>
-<a href="https://firebase.google.com"><img     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"></a>
-
-
-
-
-
+<a href="https://firebase.google.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"></a>
 
 
 # 📊 GitHub Stats:
