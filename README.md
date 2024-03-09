@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.png)
 # 💫 About Me:
 🔭 I am currently learning Flutter </br> 👯 I’m looking to collaborate on Flutter, Django and Mern<br>
 
