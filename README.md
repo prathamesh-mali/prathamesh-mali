@@ -17,7 +17,7 @@
         width="48"></a> <a href="https://postgresql.org"><img
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"></a>
 <a href="https://firebase.google.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"></a>
-
+<a href="https://figma.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48"></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prathamesh-mali&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-mali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
