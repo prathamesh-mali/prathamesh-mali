@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./banner.jpg)
 # 💫 About Me:
 🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, Django and Mern<br>
 
