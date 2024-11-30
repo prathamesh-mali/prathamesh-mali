@@ -1,7 +1,7 @@
 ![Header](./banner.jpg)
 # 💫 About Me:
-🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, Django and Mern<br>
-
+🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, IOS<br>
+   Clean Architecture | BLOC | Retrofit | Dependency Injection
 
 # 💻 Tech Stack:
 <a href="https://dart.dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"
