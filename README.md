@@ -1,4 +1,4 @@
-![Header](./banner.jpg)
+![Header](./banner.png)
 # 💫 About Me:
 🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, IOS<br>
    Clean Architecture | BLOC | Retrofit | Dependency Injection
