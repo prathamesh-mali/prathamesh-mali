@@ -1,7 +1,4 @@
-<!-- ![Header](./Github.png) -->
-<p align="center">
-  <img src="./Github.png" width="150%" />
-</p>
+![Header](./Github.png)
 
 # 💫 About Me:
 🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, IOS<br>
