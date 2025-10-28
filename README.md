@@ -1,4 +1,8 @@
-![Header](./Github.png)
+<!-- ![Header](./Github.png) -->
+<p align="center">
+  <img src="./Github.png" width="100%" />
+</p>
+
 # 💫 About Me:
 🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, IOS<br>
 Flutter developer | Freelance | Dart | BLOC | Retrofit | RESTAPI | Clean Architecture | Dependency Injection
