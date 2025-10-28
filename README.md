@@ -1,6 +1,6 @@
 <!-- ![Header](./Github.png) -->
 <p align="center">
-  <img src="./Github.png" width="100%" />
+  <img src="./Github.png" width="150%" />
 </p>
 
 # 💫 About Me:
