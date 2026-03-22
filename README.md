@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I am currently learning Swift </br> 👯 I’m looking to collaborate on Flutter, IOS<br>
-Flutter developer | Freelance | Dart | BLOC | Retrofit | RESTAPI | Clean Architecture | Dependency Injection
+Flutter developer | Freelance | GetX | BLOC | Retrofit | RESTAPI | Clean Architecture | Dependency Injection | Firebase
 
 # 💻 Tech Stack:
 <a href="https://dart.dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"
