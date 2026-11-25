@@ -27,12 +27,26 @@
 <a href="https://www.java.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" /></a>
 <a href="https://firebase.google.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" /></a>
 
-### Cybersecurity & Mobile Application Security
-<a href="https://frida.re"><img src="https://www.vectorlogo.zone/logos/frida/frida-icon.svg" width="48" /></a>
-<a href="https://portswigger.net/burp"><img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="48" /></a>
-<a href="https://developer.android.com/tools/adb"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="48" /></a>
-<a href="https://github.com/skylot/jadx"><img src="https://raw.githubusercontent.com/skylot/jadx/master/src/main/resources/logos/jadx-logo.svg" width="48" /></a>
-<a href="https://ibotpeaches.github.io/Apktool/"><img src="https://avatars.githubusercontent.com/u/1072973" width="48" /></a>
+### 🛡️ Cybersecurity & Mobile Application Security
+
+<a href="https://frida.re/">
+  <img src="https://img.shields.io/badge/Frida-Dynamic%20Instrumentation-000000?style=for-the-badge&logo=frida&logoColor=white" />
+</a>
+<a href="https://portswigger.net/burp">
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</a>
+<a href="https://developer.android.com/tools/adb">
+  <img src="https://img.shields.io/badge/Android-ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+<a href="https://github.com/skylot/jadx">
+  <img src="https://img.shields.io/badge/JADX-DEX%20Decompiler-4B8BBE?style=for-the-badge" />
+</a>
+<a href="https://apktool.org/">
+  <img src="https://img.shields.io/badge/APKTool-APK%20Reverse%20Engineering-8A2BE2?style=for-the-badge" />
+</a>
+<a href="https://github.com/sensepost/objection">
+  <img src="https://img.shields.io/badge/Objection-Runtime%20Mobile%20Exploration-555555?style=for-the-badge" />
+</a>
 
 ### Development Tools & Backend
 <a href="https://www.python.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" /></a>
